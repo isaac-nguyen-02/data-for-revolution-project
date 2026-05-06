@@ -1,0 +1,41 @@
+﻿country,year_of_rev,ref_year,immediate_outcome,gdp_per_cap,factionalized_elite,public_service,security_apparatus,external_intervention,revolt_widespread,Note on revolt_widespread
+Myanmar,2007,2006,0,2152.867309,8,8.2,9,3.5,1,Protests spread across the country
+Iran,2009,2008,0,17548.67378,9.1,6,8.6,6.8,1,Protests spread across the country
+Moldova,2009,2008,1,6153.351521,7.7,7,6.5,7.3,0,Mostly focused in the capital and some major cities
+Kyrgyzstan,2010,2009,1,3096.938141,7.3,6.5,7.7,7.8,0,Mostly focused in the capital and some major cities
+Tunisia,2010,2009,1,10237.089,6,7.4,6.2,3.4,1,Protests spread across the country
+Egypt,2011,2010,1,8837.7645,8.1,6.1,6.5,7.8,1,Protests spread across the country
+Libya,2011,2010,1,30234.09187,7.1,4.2,5.2,4.8,1,Protests spread across the country
+Syria,2011,2010,1,4475.041584,7.8,5.5,7.6,5.8,1,Protests spread across the country. Failed in its immediate goals but turned into a civil war.
+Bahrain,2011,2010,0,49254.57701,6.1,3.1,4.7,5.7,1,Protests spread across the country
+Yemen,2011,2010,1,3603.035057,9.2,8.6,8.9,7.8,1,Protests spread across the country
+Ukraine,2014,2013,1,10903.8252,6.8,3.6,4.4,6.2,0,"Main protests in Kyiv, in Maidan square"
+Hong Kong,2014,2013,0,53517.41955,7.2,6.8,6.5,3.8,0,Mainly in urban centers
+Burkina Faso,2014,2013,1,1642.9,7.3,8.7,7.2,8,1,"Started in the urban area, spread to the rural area"
+Venezuela,2015,2014,0,"13,600",7.7,7.5,6.2,4.6,0,"Not one big revolution but a continuation of a series of protests that started from 2014. The major event was on May 30, in Caracas"
+North Macedonia,2015,2014,1,14485.12152,7,4.1,5.7,5.9,0,Mostly in the capital
+Guatemala,2015,2014,1,8236.659299,6,7.1,6.7,5.7,0,Mostly in the capital
+South Korea,2016,2015,1,39794.2,3.8,2.4,2.1,5.4,0,Mostly in the capital
+Sudan,2018,2017,1,4252.421387,9.7,8.9,9,9.7,1,"Started from the peripheral areas, then spread to the major cities. Eventually succeeded in its immediate goal but turned into a civil war."
+Armania,2018,2017,1,12066.00431,7.4,3.6,5.5,6.7,0,Mostly in the capital
+Hong Kong,2019,2018,0,60900.27529,7.2,5.4,5.9,2.4,1,"Started in the urban areas, spread to the rural area"
+Algeria,2019,2018,0,13727.12664,7.1,5.7,6.9,4.6,1,"Started in the urban areas, spread to the rural area"
+Bolivia,2019,2018,1,10758.40756,8,6.5,6.2,5.5,0,Mostly in the capital
+Chile,2019,2018,0,25305.09035,2.2,3.7,3.5,1.8,1,Protests spread across the country
+Lebanon,2019,2018,0,21985.48847,9.6,5.4,8.4,9.4,1,Protests spread across the country
+Iraq,2019,2018,0,12034.40112,9.6,8.3,9,9.4,0,"Started from the capital, eventually spread acrosss the country, but mostly in urban centers."
+Belarus,2020,2019,0,22301.59324,8.3,3.6,5.5,7,0,Mostly in the capital
+Kyrgyzstan,2020,2019,1,5304.2,8,4.5,6.5,6.4,0,Mostly in the capital
+Thailand,2020,2019,0,19963.39184,9.4,3.8,8.4,3.2,1,"Started in Bangkok, spread across the country and reached the rural area"
+Cuba,2021,2020,0,"12,300",7,3.8,4.3,5.3,0,Mostly in the capital and a few urban centers.
+Eswatini,2021,2020,0,9329.3,6.8,7.2,5.4,7,1,"Started from the rural area, then spread to the cities"
+US,2021,2020,0,64401.50744,6.8,1.2,3.8,1.3,0,Major event in Capitol Hill only. The crowd eventually dispersed without achieving its goals of stopping the election certification process and installing Donald Trump.
+Myanmar,2021,2020,0,5740.990458,8,8.4,8.8,7.4,1,"Nationwide protests against the military coup, which turned into a civil war."
+Sri Lanka,2022,2021,1,14316.13522,9.1,4.7,6.8,5.7,0,Mostly in the capital
+Iran,2022,2021,0,15884.4,9.6,4.7,6.9,6.7,1,Protests started in the capital and spread countrywide
+Bangladesh,2024,2023,1,9147.777507,9.3,7.9,6.8,4.6,1,Protests started in the capital and spread countrywide
+Venezuela,2024,2023,0,"7,704",9.4,8.3,6.7,5.7,0,Mostly in the capital
+Georgia,2024,2023,0,25072,8.8,3.8,5,6.8,0,Mostly in the capital
+Iran ,2025,2024,0,19873.88609,9.6,3.8,6.7,5.8,1,Protests started in the capital and spread countrywide
+Nepal,2025,2024,1,5736.621343,8.8,6.8,5.2,5.6,1,Protests started in the capital and spread countrywide
+Georgia,2025,2024,0,28285.1,8.8,3.5,4.7,6.5,0,An insurrection attempt with in a series of protest. Exclusively in the capital
